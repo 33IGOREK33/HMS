@@ -1,0 +1,13 @@
+li {
+    color: blueviolet;
+}
+
+#idSelector {
+    color: red;
+}
+.ClassSelector {
+    color: green;
+}
+.by_several_classes .several {
+    color: fuchsia;
+}
