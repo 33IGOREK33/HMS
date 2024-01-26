@@ -1,4 +1,4 @@
-li {
+div {
     color: blueviolet;
 }
 
@@ -10,4 +10,7 @@ li {
 }
 .by_several_classes .several {
     color: fuchsia;
+}
+.by_several_classes {
+    color: blue;
 }
