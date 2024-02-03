@@ -1,0 +1,50 @@
+.wrapper {
+    width: 660px;
+    margin: 0 auto;
+    margin-top: 50px;
+    font-size: 0;
+    box-sizing: border-box;
+
+}
+.card {
+    display: inline-block;
+    min-height: 226px;
+    width: 200px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    background: #7facf5;
+    font-size: 14px;
+    padding: 0, 35px, 18px;
+    box-shadow: 2px 2px 4px blue;
+    border-radius: 20px;
+    
+}
+.image {
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    height: 180px;
+}
+.name_styles_block {
+    margin: 0 auto;
+    background-color: brown;
+    min-height: 226px;
+    width: 660px;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 30px;
+    line-height: 226px;
+    border-radius: 20px;
+    
+}
+p {
+    text-align: center;
+    font-size: 25px;
+    
+}
+h2 {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 40px;
+}
