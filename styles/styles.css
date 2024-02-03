@@ -36,15 +36,17 @@
     margin-top: 30px;
     line-height: 226px;
     border-radius: 20px;
+    font-family: Poppins, sans-serif;
     
 }
 p {
     text-align: center;
     font-size: 25px;
-    
+    font-family: Poppins, sans-serif;
 }
 h2 {
     margin-top: 10px;
     text-align: center;
     font-size: 40px;
+    font-family: Poppins, sans-serif;
 }
