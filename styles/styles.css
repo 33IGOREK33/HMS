@@ -1,0 +1,256 @@
+html {
+    scrollbar-width: none;
+}
+.top_saction {
+    background-color: #EEEFF1;
+    height: 700px;
+    width: 1920px;
+}
+.top_conteiner {
+    width: 1100px;
+    margin: 0 auto;
+}
+.nav_in_header {
+    text-align: left;
+    padding-top: 79px;
+    
+}
+.nav_in_header li {
+    display: inline-block;
+    padding-left: 12px;
+    
+    
+}
+.nav_in_header a {
+    text-decoration: none;
+    color: black;
+}
+
+.bottom_conteiner {
+    margin-top: 80px;
+    text-align: left;
+
+}
+.bottom_conteiner h1 {
+    font-size: 40px;
+}
+.bottom_conteiner p {
+    margin-top: 10px;
+    width: 600px;
+    padding-bottom: 20px;
+}
+.bottom_conteiner button {
+    margin-top: 10px;
+    
+}
+.header_button {
+    margin-top: 15px;
+    background-color: #34547A;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    height: 40px;
+    width: 150px;
+}
+.aboutme_conteiner {
+    margin-top: 540px;
+    margin-left: 730px;
+    text-align: center;
+    display: inline-block;
+    
+}
+.aboutme_conteiner h2 {
+    margin-bottom: 20px;
+    font-size: 25px;
+    
+}
+.aboutme_conteiner p {
+    
+    height: 50px;
+    width: 500px;
+}
+/* numbers__item */
+
+position: absolute;
+width: 141px;
+height: 50px;
+left: 1355px;
+top: 1159px;
+
+
+
+/* Group */
+
+position: absolute;
+width: 71px;
+height: 44px;
+left: 1425px;
+top: 1162px;
+
+
+
+/* 40+ */
+
+position: absolute;
+width: 36px;
+height: 19px;
+left: 1425px;
+top: 1162px;
+
+/* h3 */
+font-family: 'Roboto';
+font-style: normal;
+font-size: 21px;
+line-height: 25px;
+
+color: #FFFFFF;
+
+
+
+/* projects */
+
+position: absolute;
+width: 71px;
+height: 15px;
+left: 1425px;
+top: 1191px;
+
+/* p */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+color: #FFFFFF;
+
+
+
+/* project */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 1355px;
+top: 1159px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 36.67%;
+top: 30%;
+bottom: 53.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.67%;
+right: 10%;
+top: 18.33%;
+bottom: 28.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 60.81%;
+right: 20%;
+top: 42.48%;
+bottom: 38.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.33%;
+right: 23.33%;
+top: 10%;
+bottom: 86.67%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.33%;
+right: 18.33%;
+top: 16.67%;
+bottom: 80%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.33%;
+right: 61.67%;
+top: 51.67%;
+bottom: 45%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.33%;
+right: 65%;
+top: 58.33%;
+bottom: 38.33%;
+
+background: #FFFFFF;
