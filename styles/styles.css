@@ -2,15 +2,16 @@ html {
     scrollbar-width: none;
     font-family: sans-serif;
 }
-.top_saction {
+.header-section {
     background-color: #EEEFF1;
-    height: 700px;
-    width: 1920px;
+    
+    
 }
-.top_conteiner {
-    width: 1100px;
+.conteiner {
+    max-width: 1100px;
     margin: 0 auto;
 }
+
 .nav_in_header {
     text-align: left;
     padding-top: 79px;
@@ -19,126 +20,109 @@ html {
 .nav_in_header li {
     display: inline-block;
     padding-left: 12px;
-    
-    
 }
 .nav_in_header a {
     text-decoration: none;
     color: black;
 }
-
-.bottom_conteiner {
-    margin-top: 80px;
-    text-align: left;
-
+.info-in-header-section {
+    padding-top: 178px;
+    background-color: #EEEFF1;
+    min-height: 450px;
 }
-.bottom_conteiner h1 {
-    font-size: 40px;
+.info-conteiner h1 {
+    font-size: 48px;
 }
-.bottom_conteiner p {
-    margin-top: 10px;
-    width: 600px;
-    padding-bottom: 20px;
+.info-conteiner p {
+    color: #727272;
+    margin-top: 60px;
+    font-size: 16px;
+    max-width: 540px;
 }
-.bottom_conteiner button {
-    margin-top: 10px;
-    
-}
-.header_button {
-    margin-top: 15px;
+.info-conteiner button {
+    margin-top: 85px;
     background-color: #34547A;
-    color: white;
-    font-size: 12px;
-    text-align: center;
-    text-decoration: none;
     border: none;
-    height: 40px;
-    width: 150px;
+    color: white;
+    font-size: 16px;
+    width: 225px;
+    height: 65px;
 }
-.aboutme_conteiner {
-    width: 1920px;
-    margin-top: 150px;
-    
+.about-me-section {
+    padding-top: 112px;
+}
+.about-me-conteiner {
     text-align: center;
+}
+.about-me-conteiner h2 {
+    font-size: 32px;
+}
+.about-me-conteiner p {
+    color: #727272;
+    margin-top: 50px;
+    font-size: 16px;
+    max-width: 540px;
     display: inline-block;
-    
-    
 }
-.aboutme_conteiner h2 {
-    margin-bottom: 30px;
-    font-size: 25px;
-    
-}
-.aboutme_conteiner p {
-    padding-left: 37%;
-    height: 50px;
-    width: 500px;
-    
-}
-.img_section {
+.img-section {
     margin-top: 100px;
-    background-color: #34547A ;
-    width: 1920px;
+    background-color: #34547A;
     height: 250px;
     text-align: center;
-    
 }
 .card {
-    margin-top: 70px;
+    margin-top: 100px;
     display: inline-block;
     margin-right: 40px;
 }
-.floatted-imge{
-    width: 60px;
+.card img {
     height: 50px;
+    width: 50px;
     object-fit: contain;
     float: left;
-
+}
+.card h2 {
+    color: white;
+    font-size: 21px
+}
+.card p {
+    color: white;
+    font-size: 16px;
 }
 .text-float {
     float: left;
     padding-top: 13px;
     padding-left: 10px;
 }
-.text-float h2 {
-    text-align: left;
-    font-size: larger;
-}
-.video_section {
-    background-color: #EEEFF1;
-    width: 1920px;
-    height: 1004px;
-}
-.video_conteiner {
-    width: 1920px;
-    display: inline-block;
+.video-section {
+    padding-bottom: 100px;
+    padding-top: 100px;
     text-align: center;
+    background-color: #EEEFF1;
 }
-.video_conteiner h3 {
-    font-size: 25px;
-    margin-top: 40px;
+.video-conteiner h3 {
+    font-size: 32px;
 }
-.video_conteiner p {
-    padding-left: 37%;
-    padding-top: 40px;
-    padding-bottom: 60px;
-    width: 530px;
+.video-conteiner p {
+    color: #727272;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 60px;
+    max-width: 540px;
+    margin-bottom: 60px;
 }
-.footer {
+.footer-section {
     background-color: #34547A;
-    width: 1920px;
+    text-align: left;
     height: 151px;
 }
-.footer-conteiner h4 {
+.footer-section h4 {
+    padding-top: 50px;
+    font-size: 21px;
     color: white;
-    font-size: 20px;
-    padding-left: 410px;
-    padding-top: 40px;
-    margin-bottom: 15px;
 }
-.footer-conteiner p {
+.footer-section p {
+    margin-top: 20px;
+    font-size: 13px;
     color: white;
-    font-size: 15px;
-    padding-left: 410px;
-    margin-bottom: 20px;
 }
