@@ -1,6 +1,10 @@
 html{
     font-family: sans-serif;
 }
+.grey-line {
+    height: 1px;
+    background-color: gray;
+}
 .nav-section {
     
     border-color: gray;
@@ -193,4 +197,235 @@ html{
 .o-img2 {
     width: 632px;
     height: 632px ;
+}
+.localize-section {
+    min-height: 1033px;
+    background-color: #FFF8E4;
+}
+.localize-section h4 {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 120px;
+    margin-bottom: 110px;
+}
+.card-png {
+    display: flex;
+    justify-content: center;
+    width: 160px;
+    height: 120px;
+    padding-left: 85px;
+    margin-bottom: 20px;
+}
+.card {
+    width: 330px;
+    height: 294px;
+    margin-right: 50px;
+}
+.card h5 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.card p {
+    font-size: 18px;
+    text-align: center;
+}
+.localize-conteiner {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.one-more-section h6 {
+    font-size: 50px;
+    font-weight: 600 ;
+    margin-top: 154px;
+    margin-bottom: 100px;
+}
+.card2 {
+    min-width: 440px;
+    min-height: 609px;
+    text-align: left;
+    margin-right: 40px;
+}
+.card2 h2 {
+    margin-top: 40px;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.card2 p {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.card2 a {
+    color: black;
+    font-size: 20px;
+}
+.one-more-pod-conteiner {
+    display: flex;
+    justify-content: left;
+}
+.one-png1 {
+    height: 183px ;
+    width: 145px;
+}
+.one-png2 {
+    height: 183px ;
+    width: 179px;
+}
+.one-png3 {
+    height: 183px ;
+    width: 179px;
+}
+.blue-section {
+    padding-top: 70px;
+    background-color: #C9E8F2;
+    min-height: 468px;
+}
+.pod-blue-conteiner {
+    display: flex;
+    justify-content: space-around;
+}
+.pod-blue-conteiner h3 {
+    margin-top: 40px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.zaebalsa-sectione  {
+    background-color: #DABC98;
+    padding-top: 50px;
+    min-height: 332px;
+}
+.pod-zaebalo-conteiner {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    
+}
+.one-more-grey-line {
+    background-color: black;
+    height: 150px;
+    width: 1px;
+    margin-top: 20px;
+    margin-right: -30px;
+}
+.pod-zaebalo-conteiner h2 {
+    margin-top: 40px;
+    margin-left: -80px;
+    font-size: 35px;
+    font-weight: 600;
+}
+.png-in-zaebalo-section {
+    margin-top: 40px;
+}
+.pod-bird-conteiner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.pod-bird-conteiner h2 {
+    font-size: 65px ;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 100px;
+}
+.pod-bird-conteiner p {
+    text-align: center;
+    margin-bottom: 50px;
+}
+.pod-bird-conteiner button {
+    padding: 20px 40px 20px 40px;
+    font-size: 16px;
+    color: white;
+    background-color: #FF6336;
+    border: none;
+    margin-top: 40px;
+    margin-bottom: 150px;
+    cursor: pointer;
+}
+.skoro-konec-section {
+    background-color: #FF9C7D;
+    min-height: 603px;
+}
+.skoro-konec-conteiner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.skoro-konec-conteiner h2 {
+    margin-top: 150px;
+    font-size: 65px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.skoro-konec-conteiner p {
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+.skoro-konec-conteiner button {
+    padding: 20px 40px 20px 40px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+}
+.nu-wot-wot-konec-section {
+    min-height: 600px;
+}
+.velik-conteiner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+.velik-conteiner a {
+    margin-top: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+.velik-conteiner h2 {
+    font-size: 40px ;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.mnogo-div-class {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 120px;
+    
+}
+.ul-div p {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.ul-div li {
+    margin-top: 7px;
+}
+.last-last-ura-naconecto-conteiner {
+    display: flex;
+    justify-content: space-between;
+}
+.last-png-and-p {
+    display: flex;
+}
+.last-png-and-p img {
+    width: 90px;
+    height: 21px;
+}
+.last-png-and-p p {
+    margin-left: 30px;
+   
+}
+.last-section {
+    margin-top: 40px;
+    margin-bottom: 20px;
 }
